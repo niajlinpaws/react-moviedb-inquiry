@@ -1,0 +1,8 @@
+node_modules/
+.sass-cache
+style.css.map
+.env
+build/
+/mockup/*
+.DS_Store
+package-lock.json
